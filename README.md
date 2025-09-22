@@ -6,15 +6,40 @@
 <img width="1480" height="580" alt="image" src="https://github.com/user-attachments/assets/9e2ed8df-d725-466a-962f-938b49b9ba54" />
 
 ## Files
-...
+...bash
+MNet/
+├── C4_revised/
+    ├── results/
+	    ├── C4_est.mat
+	    └── C4_model_20000.mat
+    ├── evaluate.py
+    ├── main.py
+    └── utils.pcd
+├── Figure/
+    ├── Estimation_data/
+    ├── ...
+    └── PLOT_TRACKING_TIME_RESPONSE.m
+├── data/
+    ├── Data1_filtered.mat
+    └── Data4_filtered.mat
+├── run_all_learning.py
+└── setup.py
+
 ...
 
 ## How to run
 ### 1. Proposed method - Train
 ```bash
-git clone https://github.com/MCL-DGIST/IROS2025_Mnet_Code.git
 ```
 ### 2. Proposed method - Test
 ```bash
-git clone https://github.com/MCL-DGIST/IROS2025_Mnet_Code.git
+```
+### 3. Proposed method - Data logging
+```bash
+```
+### 4. Conventional method - Test & Data logging
+```bash
+```
+### 5. Performance evaluation 
+```bash
 ```
