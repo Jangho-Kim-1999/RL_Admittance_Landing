@@ -16,16 +16,23 @@ For further details, please refer to "20250916_LabSeminar_JanghoKim.pdf"
 ## How to run
 ### 1. Proposed method - Train
 ```bash
+proposed_train.py
 ```
 ### 2. Proposed method - Test
 ```bash
+proposed_test.py
 ```
 ### 3. Proposed method - Data logging
 ```bash
+proposed_data_logging.py
 ```
 ### 4. Conventional method - Test & Data logging
 ```bash
+conventional_test.py
 ```
 ### 5. Performance evaluation (MATLAB)
 ```bash
+reward_curve.m
+data_plot.m
+performance_evaluation.m
 ```
