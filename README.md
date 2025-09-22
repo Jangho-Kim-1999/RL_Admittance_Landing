@@ -5,28 +5,6 @@
 <img width="1441" height="549" alt="image" src="https://github.com/user-attachments/assets/2ce9038c-a2de-42f7-8950-26b9cdd47bf8" />
 <img width="1480" height="580" alt="image" src="https://github.com/user-attachments/assets/9e2ed8df-d725-466a-962f-938b49b9ba54" />
 
-## Files
-...bash
-MNet/
-├── C4_revised/
-    ├── results/
-	    ├── C4_est.mat
-	    └── C4_model_20000.mat
-    ├── evaluate.py
-    ├── main.py
-    └── utils.pcd
-├── Figure/
-    ├── Estimation_data/
-    ├── ...
-    └── PLOT_TRACKING_TIME_RESPONSE.m
-├── data/
-    ├── Data1_filtered.mat
-    └── Data4_filtered.mat
-├── run_all_learning.py
-└── setup.py
-
-...
-
 ## How to run
 ### 1. Proposed method - Train
 ```bash
@@ -40,6 +18,6 @@ MNet/
 ### 4. Conventional method - Test & Data logging
 ```bash
 ```
-### 5. Performance evaluation 
+### 5. Performance evaluation (MATLAB)
 ```bash
 ```
