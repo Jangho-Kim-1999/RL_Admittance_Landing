@@ -32,6 +32,8 @@ conventional_test.py
 ```
 ### 5. Performance evaluation (MATLAB)
 ```bash
+cd data
+
 reward_curve.m
 data_plot.m
 performance_evaluation.m
